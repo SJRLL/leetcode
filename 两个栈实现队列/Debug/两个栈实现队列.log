@@ -1,0 +1,17 @@
+﻿生成启动时间为 2019/11/19 22:42:08。
+     1>项目“C:\Users\一路初心\Documents\Visual Studio 2013\Projects\两个栈实现队列\两个栈实现队列\两个栈实现队列.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\BaiduNetdiskDownload\新建文件夹\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt test.cpp
+         test.cpp
+     1>c:\users\一路初心\documents\visual studio 2013\projects\两个栈实现队列\两个栈实现队列\test.cpp(17): error C2065: “InputStack”: 未声明的标识符
+     1>c:\users\一路初心\documents\visual studio 2013\projects\两个栈实现队列\两个栈实现队列\test.cpp(17): error C2228: “.push”的左边必须有类/结构/联合
+                 类型是“unknown-type”
+     1>c:\users\一路初心\documents\visual studio 2013\projects\两个栈实现队列\两个栈实现队列\test.cpp(22): error C2065: “InputStack”: 未声明的标识符
+     1>c:\users\一路初心\documents\visual studio 2013\projects\两个栈实现队列\两个栈实现队列\test.cpp(22): error C2228: “.empty”的左边必须有类/结构/联合
+                 类型是“unknown-type”
+     1>c:\users\一路初心\documents\visual studio 2013\projects\两个栈实现队列\两个栈实现队列\test.cpp(22): fatal error C1903: 无法从以前的错误中恢复；正在停止编译
+     1>已完成生成项目“C:\Users\一路初心\Documents\Visual Studio 2013\Projects\两个栈实现队列\两个栈实现队列\两个栈实现队列.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.60
